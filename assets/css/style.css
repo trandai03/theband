@@ -175,7 +175,7 @@ html {
   position: relative;
   padding-top: 50%;
   margin-top: 46px;
-  background: url(/w3_Band/assets/img/slider1.jpg) top center / cover no-repeat;
+  background: url(https://res.cloudinary.com/dmuhayimh/image/upload/v1679072795/slider1_w6ju5e.jpg) top center / cover no-repeat;
 }
 #slider .text-slider {
   position: absolute;
